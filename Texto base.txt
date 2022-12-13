@@ -1,0 +1,18 @@
+Tema: Barbearia Kaian
+
+Localizada no coração da cidade de Osasco, a Barbearia Kaian traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Kaian já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e embelezar nossos clientes, tornando sua qualidade de vida melhor".
+
+Benefícios:
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+
+Orientações para o desenvolvimento
+
+1) Desenvolva uma página inicial cujo nome será index.html e por meio dela apresente um menu horizontal com 3 links (Home, Produtos, Contatos), apresente o título da empresa, a imagem principal, seus benefícios, as fotos da barba e corte e por último, insira um rodapé com a localização da empresa. Destaque a missão da empresa usando uma <strong> (negrito) e <em> (itálico).
+
+2) Quanto ao uso de cores, fique a vontade para explorar sua criatividade, contudo, não esqueça de usar outras famílias de fontes.
+
+3) Crie uma segunda página cujo nome será produtos e numa lista horizontal, apresente os três produtos alinhados ao centro e com margens arredondas em volta de cada um. Não esqueça do rodapé. Utilize o mesmo menu criado anteriormente.
